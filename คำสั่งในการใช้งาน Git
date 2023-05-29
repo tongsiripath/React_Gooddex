@@ -1,1 +1,4 @@
+echo "# React_Gooddex" >> README.md
 git init
+git add .
+git status
