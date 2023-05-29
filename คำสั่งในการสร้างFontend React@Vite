@@ -1,0 +1,12 @@
+npm create vite@latest
+ตั้งชื่อโปรเจ็คเนม: frontend
+เลือก React
+เลือก JavaScript + SWC
+cd frontend
+npm install
+คำสั่งรัน: npm run dev
+คำสั่งBuild: npm run build
+
+**แพ็คเก็ตในการลงเพิ่มเติม**
+npm install -D react-router-dom@6 axios
+npm install -D 
